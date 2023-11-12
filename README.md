@@ -6,11 +6,11 @@
 
 ## Course Chapters
 
-### Chapter 1: Clustering for Dataset Exploration
+### [Chapter 1: Clustering for Dataset Exploration](https://github.com/PavlosIsaris/Unsupervised-Learning-in-Python/tree/main/1_Clustering_for_Dataset_Exploration)
 
-Learn how to discover the underlying groups (or "clusters") in a dataset. By the end of this chapter, you'll be clustering companies using their stock market prices, and distinguishing different species by clustering their measurements.
+> Learn how to discover the underlying groups (or "clusters") in a dataset. By the end of this chapter, you'll be clustering companies using their stock market prices, and distinguishing different species by clustering their measurements.
 
-### Chapter Details
+#### Chapter 1 Details
 
 * Unsupervised Learning (introduction)
 * Clustering 2D points
@@ -19,3 +19,15 @@ Learn how to discover the underlying groups (or "clusters") in a dataset. By the
 * Transforming features for better clusterings
 * Scaling data for clustering
 * Which points move together?
+
+### Chapter 2: Visualization with Hierarchical Clustering and t-SNE
+
+> In this chapter, you'll learn about two unsupervised learning techniques for data visualization, hierarchical clustering and t-SNE. Hierarchical clustering merges the data samples into ever-coarser clusters, yielding a tree visualization of the resulting cluster hierarchy. t-SNE maps the data samples into 2d space so that the proximity of the samples to one another can be visualized.
+
+#### Chapter 2 Details
+
+* Visualizing hierarchies
+* Cluster labels in hierarchical clustering
+* Different linkage, different hierarchical clustering
+* t-SNE for 2-dimensional maps
+* t-SNE visualization of datasets
