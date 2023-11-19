@@ -31,3 +31,14 @@
 * Different linkage, different hierarchical clustering
 * t-SNE for 2-dimensional maps
 * t-SNE visualization of datasets
+
+### [Chapter 3: Decorrelating Your Data and Dimension Reduction](https://github.com/PavlosIsaris/Unsupervised-Learning-in-Python/tree/main/3_Decorrelating_Your_Data_and_Dimension_Reduction)
+
+#### Chapter 3 Details
+
+* Visualizing the PCA transformation
+* Principal Components
+* Intrinsic Dimension
+* PCA Features
+* Dimension reduction with PCA
+* A tf-idf word-frequency array
